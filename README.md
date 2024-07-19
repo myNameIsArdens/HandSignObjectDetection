@@ -11,7 +11,7 @@ DISCLAIMER:
 
 Working on my TensorFlow object detection project was pretty rough, especially with all the dependency issues. 
 I had so many problems with version mismatches – like, the TensorFlow Object Detection API needed a specific version to work with a certain version of Python. It felt like a mess.
-There were times I thought I had everything set up right, only to find out that I had the wrong versions installed, and everything broke. 4
+There were times I thought I had everything set up right, only to find out that I had the wrong versions installed, and everything broke.
 Fixing these issues was like trying to solve a puzzle. I had to search through tons of forums, documentation, and error logs, tweaking things until they finally worked.
 I also tried to create a requirements.txt file so others wouldn’t have to deal with finding the right dependencies and versions. But honestly, I couldn’t figure it out completely.
 
