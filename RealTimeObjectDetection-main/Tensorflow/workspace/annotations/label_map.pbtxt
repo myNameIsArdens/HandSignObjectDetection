@@ -1,0 +1,16 @@
+item { 
+	name:'Boar'
+	id:1
+}
+item { 
+	name:'Dog'
+	id:2
+}
+item { 
+	name:'Hare'
+	id:3
+}
+item { 
+	name:'Ram'
+	id:4
+}
