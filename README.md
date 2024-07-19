@@ -8,6 +8,7 @@ I followed a series of tutorials created by Nicholas Renotte on YouTube. His vid
 Here is the original videos for reference: https://www.youtube.com/watch?v=yqkISICHH-U&t=4350s&ab_channel=NicholasRenotte and https://www.youtube.com/watch?v=ZTSRZt04JkY&ab_channel=NicholasRenotte
 
 DISCLAIMER: 
+
 Working on my TensorFlow object detection project was pretty rough, especially with all the dependency issues. 
 I had so many problems with version mismatches – like, the TensorFlow Object Detection API needed a specific version to work with a certain version of Python. It felt like a mess.
 There were times I thought I had everything set up right, only to find out that I had the wrong versions installed, and everything broke. 4
